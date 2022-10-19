@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Semana_01" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Semana_01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Semana_01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Exer_02_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_03_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_04_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_05_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_06_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_07_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_08_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_09_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_10_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_11_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_12_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_13_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_14_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_15_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_16_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_17_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exer_18_Sem_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
